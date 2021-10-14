@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Mate",
+    "price": 1300,
+    "thumbnail": "",
+    "id": 1
+  },
+  {
+    "title": "Bombilla",
+    "price": 500,
+    "thumbnail": "",
+    "id": 2
+  },
+  {
+    "title": "Termo",
+    "price": 3000,
+    "thumbnail": "",
+    "id": 3
+  }
+]
